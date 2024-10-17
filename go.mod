@@ -33,7 +33,6 @@ require (
 	github.com/pterm/pterm v0.12.79
 	github.com/stretchr/testify v1.9.0
 	github.com/twmb/murmur3 v1.1.8
-	github.com/wolfeidau/s3iofs v1.5.2
 	gocloud.dev v0.40.0
 	golang.org/x/exp v0.0.0-20240909161429-701f63a606c0
 	google.golang.org/api v0.201.0
